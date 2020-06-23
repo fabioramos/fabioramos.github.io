@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:B9A05846-E340-4241-8B8B-416CB0F8B4D0</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-01-06T18:55:11-08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:2156DB52-DA31-48B5-836C-79EF0D8006AD</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">2156DB52-DA31-48B5-836C-79EF0D8006AD</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2019-01-06T18:55:11.001-08:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:80797379-D64F-4CD4-96C8-4EFA30052312</id>
+  <title>CV</title>
+  <title xmlns="urn:iweb:">CV</title>
+  <in-navbar xmlns="urn:iweb:">80797379-D64F-4CD4-96C8-4EFA30052312</in-navbar>
+  <link rel="alternate" href="CV.html"/>
+  <updated>2019-01-06T18:55:11.002-08:00</updated>
+  <content>CV</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:89CFAEC8-FAD8-4C1A-909A-461252CD21FA</id>
+  <title>People</title>
+  <title xmlns="urn:iweb:">People</title>
+  <in-navbar xmlns="urn:iweb:">89CFAEC8-FAD8-4C1A-909A-461252CD21FA</in-navbar>
+  <link rel="alternate" href="People.html"/>
+  <updated>2019-01-06T18:55:11.003-08:00</updated>
+  <content>People</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:449159B7-9D01-4FFE-AD85-1D6838D198B5</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">449159B7-9D01-4FFE-AD85-1D6838D198B5</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2019-01-06T18:55:11.004-08:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D34583CC-15E1-4EDA-A87A-5CC9DF46870D</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">D34583CC-15E1-4EDA-A87A-5CC9DF46870D</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2019-01-06T18:55:11.005-08:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
