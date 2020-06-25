@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://fabioramos.github.io/</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Home.html</loc>
+  <lastmod>2020-06-24T17:48:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Home_files/hyperparameter-learning-for-conditional-mean-embeddings-with-radermacher-complexity-bounds.pdf</loc>
+  <lastmod>2020-06-24T17:48:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Home_files/hilbertmaps_rss2015.pdf</loc>
+  <lastmod>2020-06-24T17:48:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications.html</loc>
+  <lastmod>2020-06-24T17:48:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Marchant_Ramos_NIPS2013.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Castro_FSR2013.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Ott_IROS2013.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Reid_RSS2013.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Reid_IJCAI13.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/McCalman_ICRA2013.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Guizilini_ICRA2013.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Vitor_IJRR2013.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/OCallaghan_IJRR2012.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Samuel_RAS2012.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Ramos_RAS2012.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Garg_AAAI2012.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/paper.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Marchant_IROS2012.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Guizilini_ICRA2012.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/LionelICRA2012.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Zhou_ICRA_2012.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Karl_IJRR2011.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Bart_IJRR2011.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/p708-van_de_ven.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/AAAIContinuousOccupancy.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/IJCAI11-238.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Monteiro_IJCAI11final.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/ICRA11_0142_FI.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Cathy_ICRA2011.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/05979706.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/MultiTaskLearn%20MaxInfoG.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Reid2011_ICRAVegetation_Natural_Environments.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/OCallaghamICRA11.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Lionel_NIPS2014.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Roman_UAI2014.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/TransductiveCopulas.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Simon_ISER2014.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Kai_Percom14.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Ott_Ramos_IJRR2013.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Roman_ICRA14.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Jefferson_ICRA2014.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Alex_ICRA14.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/KaiPerMob2015.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/hilbertmaps_rss2015.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/JeffersonICRA2015.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Fusion_2015_final.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/aaai2015small.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/GPquantile.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Guizilini-IJRR15.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/HilbertMapsIJRR16Final.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/6541-spatio-temporal-hilbert-maps-for-continuous-occupancy-representation-in-dynamic-environments.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/pap124s1.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/GPOM_Localisation.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/AI2016_final.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/IROS16.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/IROS16_0187_MS.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/online-adaptation-deep%281%29.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/EXPOSEMarkus.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/DaniloIJCNN2016.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/RansaluAAAI2016.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/ICRA16_1803_FI.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/ICRA16_1497_FINAL.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/ICRA16_1388_FI.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/CoRL_final.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/ISRR_2017.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Gilad_ISRR2017.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Rafa_isrr17.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/IROS17_0704_FI.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/ConvAE_HilbertMaps.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Gilad_ICRA2017.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Philippe_ICRA2017.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/ICRA17_2176_FI.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/ICRA17_0421_MS.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/VitorAAAI2017.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/AlbertoITS17Final.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Final.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/hyperparameter-learning-for-conditional-mean-embeddings-with-radermacher-complexity-bounds.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/morere18a.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/guizilini18b.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/guizilini18a.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/CoRL_final_1.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/IROS18_1790_FI.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/PhilippeIROS2018.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Tom_IROS2018.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Vivaldini2018_Article_UAVRoutePlanningForActiveDisea.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/0278364918783061.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/0278364918771476.pdf</loc>
+  <lastmod>2020-06-24T17:48:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/egocentric-activity-recognition%20%282%29.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Tompkins-Ramos.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/RansaluAAAI2018.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/aaai_2018.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/Rafa_icra18.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/a_mine_on_its_own.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/04703245.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/p26.pdf</loc>
+  <lastmod>2020-06-24T17:48:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fabioramos.github.io/Publications_files/1-s2.0-S0888613X04000477-main.pdf</loc>
+  <lastmod>2020-06-24T17:48:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
